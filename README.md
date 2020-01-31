@@ -6,9 +6,9 @@ Team decided to try the Continuous Integration (**CI**) approach and to automate
 
 Work Description
 - 
-- Create you own repository in Github. You can take [this repository](https://git.epam.com/pavel_shchetska/ci-mvp) as example if it is usefull for you; 
+- Create you own repository in Github. You can take [this repository](https://github.com/PavelShchetska/ci-mvp-task.git) as example if it is usefull for you; 
 - Put your documentation into README.md file. It should be in *markdown* format;
-- Once you're ready, send letter to pavel_shchetska@epam.com with link to you own repository. 
+- Once you're ready, send letter to pavel.shchetska@gmail.com with link to you own repository. 
 
 ## Tasks
 ##### 1. You have to prepare development environment which will be based on docker technology and include the next instances:
@@ -47,7 +47,7 @@ Finally you will get two Jenkins items:
 
 
 ##### 3. Automate build process for a project.
-- Find C/C++ project at Github (check a license of a project before you start using one). For example, you can take the [curl](https://github.com/curl/curl);
+- Find C/C++ project at Github (check a license of a project before you start using one);
 - Implement declarative or scripted pipeline for you project. This pipeline should contain the following steps:
 -- checkout project repository
 -- build
